@@ -64,18 +64,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akhilcj22&show_icons=true&theme=dark" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcj22&theme=dark" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&theme=dark"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=akhilcj22&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
