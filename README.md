@@ -67,17 +67,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=akhilcj22&show_icons=true&theme=dark" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilcj22&theme=dark" width="48%"/>
 </p>
+<!-- Contributions Graph -->
+<div align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akhilcj22&bg_color=141321&&color=ffffff&line=fe428e&point=f7d746&area=false&hide_border=true">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=akhilcj22&bg_color=ffffff&&color=000000&line=0b1215&point=e7e7e7&area=false&hide_border=true">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilcj22&bg_color=141321&&color=ffffff&line=fe428e&point=f7d746&area=false&hide_border=true" border-radius="15" />
+ </picture>
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&theme=dark"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=akhilcj22&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 ✨ *“Learn continuously. Build consistently. Improve every day.”*
