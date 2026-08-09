@@ -140,6 +140,10 @@ Web app that generates resumes and tags submissions with location data.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilcj22&theme=tokyo-night&hide_border=true" width="98%"/>
 
+
+<img src="https://raw.githubusercontent.com/akhilcj22/github-stats/master/generated/overview.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/akhilcj22/github-stats/master/generated/languages.svg" width="48%"/>
+
 </div>
 
 ---
