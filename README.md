@@ -7,7 +7,7 @@
   <a href="mailto:akhilcj2226@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0089FF&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=akhilcj22&style=for-the-badge&color=0089FF&label=Profile+Views" />
 </p>
 
 </div>
@@ -55,12 +55,12 @@ class AkhilCJ:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhilcj22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=akhilcj22&theme=tokyonight&hide_border=true" />
 
 </div>
 
