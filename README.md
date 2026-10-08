@@ -19,11 +19,15 @@ I enjoy building business applications, developing APIs, and solving real-world 
 
 <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,mysql,git&perline=7" />
 
-**Also:** Frappe · ERPNext · REST APIs
+<br/><br/>
 
-### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhilcj22&show_icons=true&hide_border=true" height="150" />
+### 📊 Top Languages
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
