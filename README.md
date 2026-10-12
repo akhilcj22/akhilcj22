@@ -144,6 +144,13 @@ Web app that generates resumes and tags submissions with location data.
 
 ---
 
+### 📈 Commit Activity
+
+<!-- COMMITS:START -->
+<!-- COMMITS:END -->
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
