@@ -12,6 +12,10 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
     contributionsCollection(from: $from, to: $to) {
       totalCommitContributions
+      totalPullRequestContributions
+      totalIssueContributions
+      totalPullRequestReviewContributions
+      totalRepositoryContributions
     }
   }
 }
@@ -22,7 +26,7 @@ year_start = now.replace(month=1, day=1, hour=0, minute=0, second=0, microsecond
 month_start = now.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
 
 
-def commits_since(start):
+def contributions_since(start):
     payload = json.dumps({
         "query": QUERY,
         "variables": {"login": USER, "from": start.isoformat(), "to": now.isoformat()},
@@ -34,11 +38,24 @@ def commits_since(start):
     )
     with urllib.request.urlopen(req) as resp:
         data = json.load(resp)
-    return data["data"]["user"]["contributionsCollection"]["totalCommitContributions"]
+    return data["data"]["user"]["contributionsCollection"]
 
 
-year_count = commits_since(year_start)
-month_count = commits_since(month_start)
+year_stats = contributions_since(year_start)
+year_count = year_stats["totalCommitContributions"]
+month_count = contributions_since(month_start)["totalCommitContributions"]
+
+BREAKDOWN = [
+    ("Commits", "totalCommitContributions", "0089FF"),
+    ("Pull Requests", "totalPullRequestContributions", "8957E5"),
+    ("Issues", "totalIssueContributions", "D29922"),
+    ("Code Reviews", "totalPullRequestReviewContributions", "1F6FEB"),
+    ("New Repos", "totalRepositoryContributions", "6E7681"),
+]
+breakdown = "\n".join(
+    f"![{label}](https://img.shields.io/badge/{label.replace(' ', '%20')}-{year_stats[key]}-{color}?style=flat)"
+    for label, key, color in BREAKDOWN
+)
 
 year_label = f"Commits in {now.year}".replace(" ", "%20")
 month_label = f"Commits in {now.strftime('%B %Y')}".replace(" ", "%20")
@@ -47,6 +64,7 @@ block = (
     "<!-- COMMITS:START -->\n"
     f"![{now.year} commits](https://img.shields.io/badge/{year_label}-{year_count}-0089FF?style=flat)\n"
     f"![{now.strftime('%B')} commits](https://img.shields.io/badge/{month_label}-{month_count}-2EA44F?style=flat)\n"
+    f"\n**{now.year} contribution breakdown**\n\n{breakdown}\n"
     "<!-- COMMITS:END -->"
 )
 
