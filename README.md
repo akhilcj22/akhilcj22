@@ -23,6 +23,8 @@ I build business applications, custom ERP modules, and REST APIs that solve real
 ### Commit Activity
 
 <!-- COMMITS:START -->
+![2026 commits](https://img.shields.io/badge/Commits%20in%202026-1019-0089FF?style=flat)
+![October commits](https://img.shields.io/badge/Commits%20in%20October%202026-78-2EA44F?style=flat)
 <!-- COMMITS:END -->
 
 ### Contact
