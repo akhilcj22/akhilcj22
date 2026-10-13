@@ -2,7 +2,7 @@ name: Update commit stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC (5:30 AM IST)
+    - cron: "*/10 * * * *"   # daily at midnight UTC (5:30 AM IST)
   workflow_dispatch:       # lets you run it manually
 
 permissions:
