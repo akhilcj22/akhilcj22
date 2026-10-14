@@ -20,10 +20,6 @@ I build business applications, custom ERP modules, and REST APIs that solve real
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&hide_border=true)
 
-### GitHub Stats
-
-![GitHub Stats](assets/github-stats.svg)
-
 ### Contact
 
 📧 [akhilcj2226@gmail.com](mailto:akhilcj2226@gmail.com)
