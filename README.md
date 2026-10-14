@@ -22,8 +22,7 @@ I build business applications, custom ERP modules, and REST APIs that solve real
 
 ### GitHub Stats
 
-![All-time contributions](https://img.shields.io/badge/All--time%20contributions-13%2C497-0089FF?style=flat)
-![Lines of code changed](https://img.shields.io/badge/Lines%20of%20code%20changed-230%2C012-2EA44F?style=flat)
+![GitHub Stats](assets/github-stats.svg)
 
 ### Contact
 
