@@ -42,7 +42,7 @@ I build business applications, custom ERP modules, and REST APIs that solve real
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilcj22&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-imt6.vercel.app/api?username=akhilcj22&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&hide_border=true)
 
 ### Contact
