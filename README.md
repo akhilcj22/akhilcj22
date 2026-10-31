@@ -41,8 +41,6 @@ I build business applications, custom ERP modules, and REST APIs that solve real
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-imt6.vercel.app/api?username=akhilcj22&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&hide_border=true)
 
 ### Contact
