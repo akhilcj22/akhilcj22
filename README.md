@@ -28,10 +28,6 @@ I build ERPNext customizations, custom ERP modules and REST APIs that automate r
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcj22&layout=compact&hide_border=true)
-
 ## Contact
 
 📧 [akhilcj2226@gmail.com](mailto:akhilcj2226@gmail.com)
