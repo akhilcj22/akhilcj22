@@ -30,8 +30,8 @@ I build ERPNext customizations, custom ERP modules and REST APIs that automate r
 
 ## GitHub Stats
 
-![](https://raw.githubusercontent.com/akhilcj22/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/akhilcj22/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/akhilcj22/github-stats/master/generated/overview.svg?v=2)
+![](https://raw.githubusercontent.com/akhilcj22/github-stats/master/generated/languages.svg?v=2)
 
 ## Contact
 
